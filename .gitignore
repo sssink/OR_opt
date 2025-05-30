@@ -11,6 +11,9 @@ Desktop.ini
 dist
 build
 
+# VSCode:
+*.code-workspace
+
 # My files:
 VRPTW.md
 data/
